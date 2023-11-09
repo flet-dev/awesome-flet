@@ -4,16 +4,16 @@
 <p align="center">A curated list of awesome projects that supplement Flet.</p><br>
 
 <h2>Generic.</h2>
-<p>List of generic projects.</p>...<br>
+<p>List of generic projects.</p>
 
 <h2>Widgets.</h2>
-<p>List of projects that implement new widgets for Flet.</p><br>
+<p>List of projects that implement new widgets for Flet.</p>
 
 - [flet-carousel](https://github.com/naderidev/flet-carousel) - Carousel sliders pack for Flet.
 - [flet-contrib](https://github.com/flet-dev/flet-contrib) - Flet controls by the community.
 
 <h2>Styling.</h2>
-<p>List of projects that extend the styling capabilities of Flet.</p><br>
+<p>List of projects that extend the styling capabilities of Flet.</p>
 
 - FletReStyle - Restyle for Flet.
 
