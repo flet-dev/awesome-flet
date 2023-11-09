@@ -15,7 +15,7 @@
 <h2>Styling.</h2>
 <p>List of projects that extend the styling capabilities of Flet.</p>
 
-- FletReStyle - Restyle for Flet. * IN DEVELOPMENT *
+- [FletReStyle](https://github.com/xzripper/flet_restyle) - Restyle for Flet.
 
 <h2>Utilities.</h2>
 <p>List of utilities for Flet.</p><br>
