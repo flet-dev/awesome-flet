@@ -3,6 +3,16 @@
 <h1 align="center">Awesome Flet.</h1>
 <p align="center">A curated list of awesome projects that supplement Flet.<br><small>We are waiting for your PR's!</small></p>
 
+<h2>Articles, tutorials, blogs, ETC.</h2>
+
+- [FletDev](https://flet.dev) - Flet site.
+- [FletRoadmap](https://flet.dev/roadmap/) - Flet Roadmap.
+- [FletTutorials](https://flet.dev/docs/tutorials/) - Flet Tutorials.
+- [A brief intro to Flet.](https://hackernoon.com/a-brief-intro-to-flet-building-flutter-apps-with-python) - A brief intro to Flet.
+- [Create your first python application with Flet.](https://www.youtube.com/watch?v=-mZP91Y3naY) - Your first python application with Flet.
+- [Create login screen in Flet.](https://www.youtube.com/watch?v=YWUM1Yx79mE) - Login Screen in Flet.
+- [Building a Markdown Editor in Flet.](https://betterprogramming.pub/building-a-markdown-editor-previewer-with-flet-7d9b06d6dc4b) - Markdown Editor In Flet.
+
 <h2>Generic.</h2>
 <p>List of generic projects.</p>
 
@@ -18,7 +28,7 @@
 - [FletReStyle](https://github.com/xzripper/flet_restyle) - Restyle for Flet.
 
 <h2>Utilities.</h2>
-<p>List of utilities for Flet.</p><br>
+<p>List of utilities for Flet.</p>
 
 - [flet_pb_v_calc](https://github.com/xzripper/flet_pb_v_calc) - Flet Progress Bar Value Calculator.
 - [FletNavigator](https://github.com/xzripper/flet_navigator) - Simple and fast navigator (router) for Flet (Python) that allows you to create multi-page applications.
