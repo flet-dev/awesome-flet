@@ -1,7 +1,7 @@
 <p align="center"><img src="banner_wide.png" width=800></p>
 
 <h1 align="center">Awesome Flet.</h1>
-<p align="center">A curated list of awesome projects that supplement Flet.</p><br>
+<p align="center">A curated list of awesome projects that supplement Flet.<br><small>We are waiting for your PR's!</small></p><br>
 
 <h2>Generic.</h2>
 <p>List of generic projects.</p>
