@@ -16,6 +16,9 @@
 <h2>Generic.</h2>
 <p>List of generic projects.</p>
 
+- [myPeriod](https://codeberg.org/etux/myPeriod) - Menstrual cycle tracking app.
+
+
 <h2>Widgets.</h2>
 <p>List of projects that implement new widgets for Flet.</p>
 
