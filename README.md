@@ -18,6 +18,7 @@
 
 - [myPeriod](https://codeberg.org/etux/myPeriod) - Menstrual cycle tracking app.
 - [RetScape](https://codeberg.org/etux/RetScape) - A graphical [NomadNet](https://github.com/markqvist/NomadNet) page browser.
+- [Simple-Stopwatch](https://github.com/taaaf11/Simple-Stopwatch) - A simple stopwatch.
 
 
 <h2>Widgets.</h2>
