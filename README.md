@@ -17,6 +17,7 @@
 <p>List of generic projects.</p>
 
 - [myPeriod](https://codeberg.org/etux/myPeriod) - Menstrual cycle tracking app.
+- [Simple-Stopwatch](https://github.com/taaaf11/Simple-Stopwatch) - A simple stopwatch.
 
 
 <h2>Widgets.</h2>
