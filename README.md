@@ -18,6 +18,7 @@
 
 - [myPeriod](https://codeberg.org/etux/myPeriod) - Menstrual cycle tracking app.
 - [Simple-Stopwatch](https://github.com/taaaf11/Simple-Stopwatch) - A simple stopwatch.
+- [Calculator](https://github.com/taaaf11/Calculator) - A dead simple calculator app.
 
 
 <h2>Widgets.</h2>
