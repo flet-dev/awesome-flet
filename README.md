@@ -17,6 +17,7 @@
 <p>List of generic projects.</p>
 
 - [myPeriod](https://codeberg.org/etux/myPeriod) - Menstrual cycle tracking app.
+- [RetScape](https://codeberg.org/etux/RetScape) - A graphical [NomadNet](https://github.com/markqvist/NomadNet) page browser.
 - [Simple-Stopwatch](https://github.com/taaaf11/Simple-Stopwatch) - A simple stopwatch.
 - [Calculator](https://github.com/taaaf11/Calculator) - A dead simple calculator app.
 
