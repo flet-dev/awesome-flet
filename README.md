@@ -20,7 +20,7 @@
 - [RetScape](https://codeberg.org/etux/RetScape) - A graphical [NomadNet](https://github.com/markqvist/NomadNet) page browser.
 - [Simple-Stopwatch](https://github.com/taaaf11/Simple-Stopwatch) - A simple stopwatch.
 - [Calculator](https://github.com/taaaf11/Calculator) - A dead simple calculator app.
-
+- [Organo](https://github.com/Benitmulindwa/organo) - A simple app that generates organic structures from their IUPAC names.
 
 <h2>Widgets.</h2>
 <p>List of projects that implement new widgets for Flet.</p>
@@ -32,7 +32,8 @@
 <p>List of projects that extend the styling capabilities of Flet.</p>
 
 - [FletReStyle](https://github.com/xzripper/flet_restyle) - Restyle for Flet.
-
+- [Neumoflet](https://github.com/Benitmulindwa/neumoflet) - Generage flet Ui code, for neumorphic Design.
+  
 <h2>Utilities.</h2>
 <p>List of utilities for Flet.</p>
 
