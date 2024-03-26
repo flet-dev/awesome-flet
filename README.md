@@ -39,3 +39,4 @@
 
 - [flet_pb_v_calc](https://github.com/xzripper/flet_pb_v_calc) - Flet Progress Bar Value Calculator.
 - [FletNavigator](https://github.com/xzripper/flet_navigator) - Simple and fast navigator (router) for Flet (Python) that allows you to create multi-page applications.
+- [FletRouter](https://github.com/50Bytes-dev/flet-router) - FastAPI-like routing for Flet.
