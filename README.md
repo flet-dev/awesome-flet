@@ -41,3 +41,4 @@
 - [FletNavigator](https://github.com/xzripper/flet_navigator) - Simple and fast navigator (router) for Flet (Python) that allows you to create multi-page applications.
 - [FletRouter](https://github.com/50Bytes-dev/flet-router) - FastAPI-like routing for Flet.
 - [FletForm](https://github.com/50Bytes-dev/flet-form) - Validation of user input
+- [VSCode FletWrap](https://github.com/50Bytes-dev/vscode-flet-wrap) - Efficiently wrapping Flet controllers within other controllers
