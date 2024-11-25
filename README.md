@@ -26,7 +26,6 @@
 - [FletifyHTML](https://github.com/Benitmulindwa/FletifyHTML) - FletifyHTML is a versatile Python tool designed to convert HTML content into Flet code.
 - [fletmint](https://github.com/Bbalduzz/fletmint) - A sharp and modern components library for Flet.
 - [flet-hacks](https://github.com/hololeo/flet-hacks) - Quick, dirty hacks with Flet / Flutter. Improvising innovation.
-- 
 
 <h2>Widgets.</h2>
 <p>List of projects that implement new widgets for Flet.</p>
