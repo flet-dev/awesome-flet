@@ -12,6 +12,7 @@
 - [Create your first python application with Flet.](https://www.youtube.com/watch?v=-mZP91Y3naY) - Your first python application with Flet.
 - [Create login screen in Flet.](https://www.youtube.com/watch?v=YWUM1Yx79mE) - Login Screen in Flet.
 - [Building a Markdown Editor in Flet.](https://betterprogramming.pub/building-a-markdown-editor-previewer-with-flet-7d9b06d6dc4b) - Markdown Editor In Flet.
+- [Packaging app for Android](https://flet.dev/docs/publish/android/) - Official documentation for packaging Flet application for Android.
 
 <h2>Generic.</h2>
 <p>List of generic projects.</p>
@@ -21,6 +22,11 @@
 - [Simple-Stopwatch](https://github.com/taaaf11/Simple-Stopwatch) - A simple stopwatch.
 - [Calculator](https://github.com/taaaf11/Calculator) - A dead simple calculator app.
 - [Organo](https://github.com/Benitmulindwa/organo) - A simple app that generates organic structures from their IUPAC names.
+- [flet_projects](https://github.com/LineIndent/flet_projects) - A list of applications built with Flet library.
+- [FletifyHTML](https://github.com/Benitmulindwa/FletifyHTML) - FletifyHTML is a versatile Python tool designed to convert HTML content into Flet code.
+- [fletmint](https://github.com/Bbalduzz/fletmint) - A sharp and modern components library for Flet.
+- [flet-hacks](https://github.com/hololeo/flet-hacks) - Quick, dirty hacks with Flet / Flutter. Improvising innovation.
+- 
 
 <h2>Widgets.</h2>
 <p>List of projects that implement new widgets for Flet.</p>
