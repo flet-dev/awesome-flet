@@ -43,3 +43,4 @@
 - [FletForm](https://github.com/50Bytes-dev/flet-form) - Validation of user input
 - [VSCode FletWrap](https://github.com/50Bytes-dev/vscode-flet-wrap) - Efficiently wrapping Flet controllers within other controllers
 - [Flet-Easy](https://github.com/Daxexs/flet-easy) - Intuitive resource that simplifies code structure and accelerates application creation, with features such as dynamic routing, decorators, middleware, JWT, route protection, custom 404 pages and much more, all designed to meet your needs.
+- [Ask Flet Guru](https://gurubase.io/g/flet) - It is a Flet-focused AI to answer your questions.
