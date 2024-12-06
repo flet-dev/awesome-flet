@@ -1,4 +1,4 @@
-<p align="center"><img src="banner_wide.png" width=800></p>
+<p align="center"><img src="banner_wide.png" width=900></p>
 
 <h1 align="center">Awesome Flet.</h1>
 <p align="center">A curated list of awesome projects that supplement Flet.<br><small>We are waiting for your PR's!</small></p>
@@ -13,6 +13,7 @@
 - [Create login screen in Flet.](https://www.youtube.com/watch?v=YWUM1Yx79mE) - Login Screen in Flet.
 - [Building a Markdown Editor in Flet.](https://betterprogramming.pub/building-a-markdown-editor-previewer-with-flet-7d9b06d6dc4b) - Markdown Editor In Flet.
 - [Packaging app for Android](https://flet.dev/docs/publish/android/) - Official documentation for packaging Flet application for Android.
+- [flet-alchemy](https://github.com/nbilbo/flet-alchemy/tree/master) - Flet and SQLAlchemy example.
 
 <h2>Generic.</h2>
 <p>List of generic projects.</p>
@@ -26,21 +27,10 @@
 - [FletifyHTML](https://github.com/Benitmulindwa/FletifyHTML) - FletifyHTML is a versatile Python tool designed to convert HTML content into Flet code.
 - [fletmint](https://github.com/Bbalduzz/fletmint) - A sharp and modern components library for Flet.
 - [flet-hacks](https://github.com/hololeo/flet-hacks) - Quick, dirty hacks with Flet / Flutter. Improvising innovation.
+- [Flet-Color-Browser](https://github.com/ndonkoHenri/Flet-Color-Browser) - A simple Web and desktop UI for easy color selection in Flet Application development.
 
-<h2>Widgets.</h2>
-<p>List of projects that implement new widgets for Flet.</p>
-
-- [flet-carousel](https://github.com/naderidev/flet-carousel) - Carousel sliders pack for Flet.
-- [flet-contrib](https://github.com/flet-dev/flet-contrib) - Flet controls by the community.
-
-<h2>Styling.</h2>
-<p>List of projects that extend the styling capabilities of Flet.</p>
-
-- [FletReStyle](https://github.com/xzripper/flet_restyle) - Restyle for Flet.
-- [Neumoflet](https://github.com/Benitmulindwa/neumoflet) - Generage flet Ui code, for neumorphic Design.
-  
-<h2>Utilities.</h2>
-<p>List of utilities for Flet.</p>
+<h2>Libraries</h2>
+<p>List of libraries for Flet.</p>
 
 - [flet_pb_v_calc](https://github.com/xzripper/flet_pb_v_calc) - Flet Progress Bar Value Calculator.
 - [FletNavigator](https://github.com/xzripper/flet_navigator) - Simple and fast navigator (router) for Flet (Python) that allows you to create multi-page applications.
@@ -51,3 +41,15 @@
 - [Ask Flet Guru](https://gurubase.io/g/flet) - It is a Flet-focused AI to answer your questions.
 - [FletTimer](https://github.com/omamkaz/flet-timer) - It demonstrates how to create a countdown timer using threading for real-time display updates.
 - [FletWColors](https://github.com/omamkaz/flet-wcolors) - just to help the developer get many colors without remembering their hex value.
+
+<h2>New widgets/controls.</h2>
+<p>List of projects that implement new controls for Flet.</p>
+
+- [flet-carousel](https://github.com/naderidev/flet-carousel) - Carousel sliders pack for Flet.
+- [flet-contrib](https://github.com/flet-dev/flet-contrib) - Flet controls by the community.
+
+<h2>Themes & styles</h2>
+<p>List of projects that extend the styling capabilities of Flet.</p>
+
+- [FletReStyle](https://github.com/xzripper/flet_restyle) - Restyle for Flet.
+- [Neumoflet](https://github.com/Benitmulindwa/neumoflet) - Generage flet Ui code, for neumorphic Design.
