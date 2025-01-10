@@ -23,6 +23,7 @@
 - [Simple-Stopwatch](https://github.com/taaaf11/Simple-Stopwatch) - A simple stopwatch.
 - [Calculator](https://github.com/taaaf11/Calculator) - A dead simple calculator app.
 - [Organo](https://github.com/Benitmulindwa/organo) - A simple app that generates organic structures from their IUPAC names.
+- [Flet-base](https://github.com/TonyXdZ/flet-base) - Basic app with multiple pages and basic auth functionalities to jump start your next project.
 - [flet_projects](https://github.com/LineIndent/flet_projects) - A list of applications built with Flet library.
 - [FletifyHTML](https://github.com/Benitmulindwa/FletifyHTML) - FletifyHTML is a versatile Python tool designed to convert HTML content into Flet code.
 - [fletmint](https://github.com/Bbalduzz/fletmint) - A sharp and modern components library for Flet.
