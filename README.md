@@ -52,6 +52,7 @@
 - [flet-contrib](https://github.com/flet-dev/flet-contrib) - Flet controls by the community.
 - [flet-stacked](https://github.com/omamkaz/flet-stacked) - a custom Flet control for managing multiple pages with smooth animations.
 - [flet-dropzone](https://github.com/shiena/flet-dropzone) - a DropZone control that accepts dropped files.
+- [flet-blur](https://github.com/shiena/flet-blur) - Adding nice transparency effect to your Flet App
 
 <h2>Themes & styles</h2>
 <p>List of projects that extend the styling capabilities of Flet.</p>
