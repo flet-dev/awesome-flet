@@ -30,6 +30,7 @@
 - [flet-hacks](https://github.com/hololeo/flet-hacks) - Quick, dirty hacks with Flet / Flutter. Improvising innovation.
 - [Flet-Color-Browser](https://github.com/ndonkoHenri/Flet-Color-Browser) - A simple Web and desktop UI for easy color selection in Flet Application development.
 - [FletCustomRepo](https://github.com/LegendaryPistachio/FletCustomRepo) - This is a repository for developing custom components, custom composite components, custom user interface templates, custom animation templates, and custom page element effects using the Flet framework.
+- [Bookkeeping-Assistant](https://github.com/jmzdd/Bookkeeping-Assistant) - A simple small bookkeeping application (hourly rate calculator).
 
 <h2>Libraries</h2>
 <p>List of libraries for Flet.</p>
