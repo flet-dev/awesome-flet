@@ -45,6 +45,7 @@
 - [FletTimer](https://github.com/omamkaz/flet-timer) - It demonstrates how to create a countdown timer using threading for real-time display updates.
 - [FletWColors](https://github.com/omamkaz/flet-wcolors) - just to help the developer get many colors without remembering their hex value.
 - [Flet Model](https://github.com/fasilwdr/flet-model) - A Model-based router for Flet applications that simplifies the creation of multi-page applications with built-in state management, navigation, and advanced features like event binding, view caching, and thread-safe initialization hooks.
+- [Flet AutoUpdater](https://github.com/ap4499/sparkle_auto_updater) - Allows developers to push automatic updates to Flet applications on user systems. Utilising the Sparkle framework that is popular on MacOS under the hood, it supports both Windows and Mac by utilising the Flutter project leanflutter/auto_updater, which uses WinSparkle to provide an OS agnostic approach. 
 
 <h2>New widgets/controls.</h2>
 <p>List of projects that implement new controls for Flet.</p>
