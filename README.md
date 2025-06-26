@@ -15,7 +15,6 @@
 - [Packaging app for Android](https://flet.dev/docs/publish/android/) - Official documentation for packaging Flet application for Android.
 - [flet-alchemy](https://github.com/nbilbo/flet-alchemy/tree/master) - Flet and SQLAlchemy example.
 - [Flet examples](https://github.com/flet-dev/examples) - Official Flet sample apps—many are small and easy to learn from.
-- [Flet-Samples](https://github.com/ndonkoHenri/Flet-Samples) - A personal collection of mini-apps built with Flet.
 
 <h2>Generic.</h2>
 <p>List of generic projects.</p>
