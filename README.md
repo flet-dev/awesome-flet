@@ -14,6 +14,8 @@
 - [Building a Markdown Editor in Flet.](https://betterprogramming.pub/building-a-markdown-editor-previewer-with-flet-7d9b06d6dc4b) - Markdown Editor In Flet.
 - [Packaging app for Android](https://flet.dev/docs/publish/android/) - Official documentation for packaging Flet application for Android.
 - [flet-alchemy](https://github.com/nbilbo/flet-alchemy/tree/master) - Flet and SQLAlchemy example.
+- [Flet examples](https://github.com/flet-dev/examples) - Official Flet sample apps—many are small and easy to learn from.
+- [Flet-Samples](https://github.com/ndonkoHenri/Flet-Samples) - A personal collection of mini-apps built with Flet.
 
 <h2>Generic.</h2>
 <p>List of generic projects.</p>
@@ -31,6 +33,20 @@
 - [Flet-Color-Browser](https://github.com/ndonkoHenri/Flet-Color-Browser) - A simple Web and desktop UI for easy color selection in Flet Application development.
 - [FletCustomRepo](https://github.com/LegendaryPistachio/FletCustomRepo) - This is a repository for developing custom components, custom composite components, custom user interface templates, custom animation templates, and custom page element effects using the Flet framework.
 - [Bookkeeping-Assistant](https://github.com/jmzdd/Bookkeeping-Assistant) - A simple small bookkeeping application (hourly rate calculator).
+- [TAICHI-flet](https://github.com/moshstudio/TAICHI-flet) - Windows desktop app (browse images, music, novels, comics, resources) based on Flet.
+- [BillyGPT](https://github.com/B1lli/BillyGPT) - Free, open-source, cross-platform ChatGPT client built with Flet.
+- [evue](https://github.com/scriptiot/evue) - High-performance GUI framework based on HTML/CSS, runs everywhere, includes Flet as a topic.
+- [Ki-nTree](https://github.com/sparkmicro/Ki-nTree) - Fast part creation for KiCad and InvenTree, includes Flet.
+- [Flet-todo-app-Tutorials](https://github.com/1Mr-Newton/Flet-todo-app-Tutorials) - Simple todo app tutorials using Flet; great for beginners!
+- [Flet StoryBoard](https://github.com/SKbarbon/Flet_StoryBoard) - A UI-builder for Flet to help programmers build front-ends visually.
+- [Flet-Samples](https://github.com/ndonkoHenri/Flet-Samples) - A showcase of small Flet apps, including a captcha generator, login form, markdown editor, and more.
+- [Amacapy-Bot-Telegram-Amazon-Affiliates](https://github.com/sulasoft/Amacapy-Bot-Telegram-Amazon-Affiliates) - Amazon scraper/Telegram bot using Flet, Beautiful Soup, and Python.
+- [Flet-Easy](https://github.com/Daxexs/flet-easy) - Add-on package for Flet offering cleaner structure and features like JWT, router, and middleware.
+- [fletmint](https://github.com/Bbalduzz/fletmint) - A modern, customizable Flet component library.
+- [iBackep](https://github.com/redromnon/iBackep) - Lightweight GUI backup manager for iPhone/iPad on Linux, built with Flet.
+- [AIChat](https://github.com/Hayashi-Yudai/aichat) - A customizable AI chat application powered by Flet.
+- [Bro-Bot-AI](https://github.com/UnnatMalik/CHAT-BOT) - Bro-Bot-AI is your one-stop shop for exploring AI chatbot technologies!
+- [Solitaire-on-python](https://github.com/makhmud-dev/Solitaire-on-python) - Game Solitaire created on Python flet
 
 <h2>Libraries</h2>
 <p>List of libraries for Flet.</p>
