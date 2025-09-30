@@ -72,6 +72,7 @@
 - [flet-stacked](https://github.com/omamkaz/flet-stacked) - a custom Flet control for managing multiple pages with smooth animations.
 - [flet-dropzone](https://github.com/shiena/flet-dropzone) - a DropZone control that accepts dropped files.
 - [flet-blur](https://github.com/shiena/flet-blur) - Adding nice transparency effect to your Flet App
+- [flet_sherpa_onnx](https://github.com/SamYuan1990/flet_sherpa_onnx) - flet sound to text service supporting flet 0.7+
 
 <h2>Themes & styles</h2>
 <p>List of projects that extend the styling capabilities of Flet.</p>
