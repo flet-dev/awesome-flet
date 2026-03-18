@@ -47,6 +47,7 @@
 - [Bro-Bot-AI](https://github.com/UnnatMalik/CHAT-BOT) - Bro-Bot-AI is your one-stop shop for exploring AI chatbot technologies!
 - [Solitaire-on-python](https://github.com/makhmud-dev/Solitaire-on-python) - Game Solitaire created on Python flet
 - [i18n-agent-action](https://github.com/SamYuan1990/i18n-agent-action) - i18n with LLM provides you simultaneous interpretation, document tranlation.
+- [PyGem](https://github.com/jorge-lgclabs/PyGem) - An adaptation of the board game Splendor, built with Flet.
 
 <h2>Libraries</h2>
 <p>List of libraries for Flet.</p>
