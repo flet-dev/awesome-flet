@@ -1,4 +1,4 @@
-name: CI
+name: Validation
 
 on:
   pull_request:
@@ -13,14 +13,16 @@ permissions:
 
 jobs:
   validate:
-    name: Validate apps.yml + README table
+    name: Validate apps.yml and README table
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v7
+
       - name: Install uv
         uses: astral-sh/setup-uv@v8.0.0
-      - name: apps.yml is valid and the README table is in sync
+
+      - name: Validate apps.yml and the README table are in sync
         run: uv run scripts/apps.py check
 
   links:
@@ -30,12 +32,14 @@ jobs:
     # should never block a good PR. Real dead links still show up here.
     continue-on-error: true
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v7
+
       - name: Link check
         uses: lycheeverse/lychee-action@v2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          # Accept bot-blocked store/CDN responses; skip mailto links.
-          args: --accept 200,206,403,429 --exclude-mail --max-retries 2 README.md CONTRIBUTING.md
+          # Accept bot-blocked store/CDN responses
+          args: --accept 200,206,403,429 --max-retries 2 --verbose README.md CONTRIBUTING.md
           fail: true

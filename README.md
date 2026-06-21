@@ -1,4 +1,4 @@
-<p align="center"><img src="banner_wide.png" width="80%" alt="Awesome Flet"></p>
+<p align="center"><img src="media/banner_wide.png" width="80%" alt="Awesome Flet"></p>
 
 [//]: # (<h1 align="center">Awesome Flet</h1>)
 
