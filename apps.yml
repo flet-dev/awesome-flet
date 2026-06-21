@@ -1,0 +1,95 @@
+# Published Flet apps — apps shipped to a public app store.
+#
+# Single source of truth for the README "Published Apps" table and the
+# "Made with Flet" showcase on flet.dev. Add an app via pull request; the
+# reviewer confirms it is built with Flet before merging, so everything in
+# this file is already vetted — no status flags needed.
+#
+# Fields:
+#   name      (required)  Display name.
+#   tagline   (required)  One-line description.
+#   platforms (required)  Any of: android, ios, web, windows, macos, linux.
+#   stores    (required)  One or more of: google_play, app_store,
+#                         microsoft_store, snap_store, other. All URLs https.
+#   source    (optional)  Public source repository, if open source.
+#   website   (optional)  Product or landing page.
+#   tags      (optional)  Freeform labels.
+
+apps:
+  - name: CodeUA
+    tagline: A daily 9:00 AM minute-of-silence app to collectively commemorate those who lost their lives in the war in Ukraine.
+    platforms: [android]
+    stores:
+      google_play: https://play.google.com/store/apps/details?id=org.foundation101.codeua
+    website: https://www.foundation101.org
+    tags: [commemoration, ukraine]
+
+  - name: Flet
+    tagline: Official client to preview and test Flet apps on a device.
+    platforms: [android, ios]
+    stores:
+      google_play: https://play.google.com/store/apps/details?id=com.appveyor.flet
+      app_store: https://apps.apple.com/app/flet/id1624979699
+    tags: [developer-tools]
+
+  - name: Just Reserved
+    tagline: Demo reservation and booking app built with Django and Flet, showcasing the flet-django framework.
+    platforms: [android]
+    stores:
+      google_play: https://play.google.com/store/apps/details?id=app.marysia.just_reserved
+    website: https://marysia.app
+    tags: [reservation, demo]
+
+  - name: KTV Player
+    tagline: Live TV player for your own M3U playlists and custom channels.
+    platforms: [android]
+    stores:
+      google_play: https://play.google.com/store/apps/details?id=ng.kiri.ktvplayer
+    source: https://github.com/Nwokike/ktv-player
+    tags: [streaming, media-player]
+
+  - name: Lambs and Tigers
+    tagline: Digital version of the Aadu Puli Aattam strategy board game — three tigers against fifteen lambs, with AI and online modes.
+    platforms: [android, ios]
+    stores:
+      google_play: https://play.google.com/store/apps/details?id=com.aakattutech.LambsAndTigers
+      app_store: https://apps.apple.com/us/app/lambs-and-tigers/id6754126430
+    website: https://www.aakattutech.com/projects/lambs-and-tigers/
+    tags: [game, board-game]
+
+  - name: Pictograms
+    tagline: Build pictogram boards to aid communication, with per-user boards of selectable images.
+    platforms: [android]
+    stores:
+      google_play: https://play.google.com/store/apps/details?id=com.pictogram
+    tags: [accessibility, communication]
+
+  - name: Spaninsight
+    tagline: Privacy-first data intelligence — collect, analyze, and report with on-device AI.
+    platforms: [android]
+    stores:
+      google_play: https://play.google.com/store/apps/details?id=com.spaninsight.app
+    website: https://spaninsight.com
+    tags: [data-analysis, ai]
+
+  - name: TastyFit
+    tagline: Cooking app with 3,000+ recipes, step-by-step guides, and filters by ingredient, cuisine, and occasion.
+    platforms: [android]
+    stores:
+      google_play: https://play.google.com/store/apps/details?id=com.tastyfit.tastyfit
+    tags: [recipes, cooking]
+
+  - name: Text to Speech AI
+    tagline: Converts text into natural-sounding speech using AI, with multilingual support and audio export.
+    platforms: [android]
+    stores:
+      google_play: https://play.google.com/store/apps/details?id=com.mycompany.texttospeech
+    tags: [text-to-speech, ai]
+
+  - name: TripCalc
+    tagline: Calculates the total cost of a trip, including gas, tolls, and miles driven.
+    platforms: [android, ios]
+    stores:
+      google_play: https://play.google.com/store/apps/details?id=com.BernerTech.tripcalcapp
+      app_store: https://apps.apple.com/app/tripcalc-trip-cost-calculator/id6741445615
+    tags: [calculator, travel]
