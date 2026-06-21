@@ -1,0 +1,41 @@
+name: CI
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "0 6 * * 1" # weekly (Mon 06:00 UTC) — catch links that died after merge
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    name: Validate apps.yml + README table
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v7
+      - name: Install uv
+        uses: astral-sh/setup-uv@v8.0.0
+      - name: apps.yml is valid and the README table is in sync
+        run: uv run scripts/apps.py check
+
+  links:
+    name: Check links (advisory)
+    runs-on: ubuntu-latest
+    # Advisory: a store page returning 403 to bots, or a transient timeout,
+    # should never block a good PR. Real dead links still show up here.
+    continue-on-error: true
+    steps:
+      - uses: actions/checkout@v4
+      - name: Link check
+        uses: lycheeverse/lychee-action@v2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          # Accept bot-blocked store/CDN responses; skip mailto links.
+          args: --accept 200,206,403,429 --exclude-mail --max-retries 2 README.md CONTRIBUTING.md
+          fail: true

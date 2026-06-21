@@ -41,6 +41,15 @@ Apps shipped to a public app store live in [`apps.yml`](apps.yml) — the single
     tags: [example, tag]                     # optional
 ```
 
+Then regenerate the README table and commit both files:
+
+```bash
+uv run scripts/apps.py sync   # validates apps.yml and rewrites the README table
+# (or: pip install pyyaml && python scripts/apps.py sync)
+```
+
+Can't run it? No problem — a reviewer will run it on your PR before merging.
+
 Include a **working store link**. Add `source` only if the **app's own code** is public (not just the framework it uses).
 
 ## Review

@@ -11,6 +11,9 @@
 ## Contents
 
 - [Getting Started](#getting-started)
+- [Learning Resources](#learning-resources)
+  - [Articles and Blog posts](#articles-and-blog-posts)
+  - [Videos](#videos)
 - [Published Apps](#published-apps)
 - [Extensions](#extensions)
   - [Official Extensions](#official-extensions)
@@ -19,9 +22,7 @@
 - [Apps and Projects](#apps-and-projects)
 - [Tools](#tools)
   - [IDE Plugins](#ide-plugins)
-- [Learning Resources](#learning-resources)
 - [Community](#community)
-- [Contributing](#contributing)
 
 ## Getting Started
 
@@ -31,9 +32,57 @@ Everything you need to install Flet, learn the basics, and publish your first ap
 - [Flet Studio](https://flet.app) - A full-featured Python IDE in the browser, built with Flet.
 - [Publishing for Android/iOS/macOS/Windows/Linux/Web](https://flet.dev/docs/publish/) - Official guide to packaging and shipping Flet apps to all platforms.
 
+## Learning Resources
+
+Articles, tutorials, and videos for learning Flet.
+
+#### Articles and Blog posts
+
+Written tutorials, guides, and deep-dives.
+
+- [A Brief Intro to FLET: Building Flutter Apps with Python](https://hackernoon.com/a-brief-intro-to-flet-building-flutter-apps-with-python)
+- [Tutorial: Build a Markdown Editor Flutter App With the Flet Python Framework](https://betterprogramming.pub/building-a-markdown-editor-previewer-with-flet-7d9b06d6dc4b)
+
+#### Videos
+
+Video tutorials and walkthroughs.
+
+- [Access any Flet's Control Parent](https://www.youtube.com/watch?v=5GtSwXP3dfY)
+- [Adding Navigation To Your Python App (Flet Tutorial)](https://www.youtube.com/watch?v=ZNuHDvt3Oxc)
+- [Building the CupertinoNavigationBar Flet Control | Flet Contribution](https://www.youtube.com/watch?v=7ncWtV-8gis)
+- [Create A Login Screen In Python With Flet (Tutorial)](https://www.youtube.com/watch?v=YWUM1Yx79mE)
+- [Create Your First Python Application With Flet (Tutorial)](https://www.youtube.com/watch?v=-mZP91Y3naY)
+- [Creating A Python App With Keyboard Shortcuts (Flet Tutorial)](https://www.youtube.com/watch?v=KFZ_fO_HCMA)
+- [Deploy Python Web Apps for FREE on Cloudflare Pages](https://www.youtube.com/watch?v=cr2bhBfgdbg)
+- [Deploy Python Web Apps for FREE on GitHub Pages using GitHub Actions](https://www.youtube.com/watch?v=qjHgRwQHD3s)
+- [Disable/Enable Browser Context Menu in a Flet Web App](https://www.youtube.com/watch?v=4NhBaxHqgWo)
+- [Display Google Admob Banner & Interstitial Ads in Flet | App Monetization](https://www.youtube.com/watch?v=CgScZlh_xRs)
+- [Display Interactive Maps in Python using Flet | Part 1](https://www.youtube.com/watch?v=opKXJROXwX8)
+- [Display Interactive Maps in Python using Flet | Part 2](https://www.youtube.com/watch?v=wUwQlrXgdcU)
+- [Flet Troubleshooting: Fix TextField Content Going Invisible When Resized](https://www.youtube.com/watch?v=esQAs998J5U)
+- [How To Build A Card Holder (Wallet) Python + Flet + Async SQLite](https://www.youtube.com/watch?v=o2wXHbPHClA)
+- [How To Create A Cool Notepad App In Python (Flet Tutorial)](https://www.youtube.com/watch?v=2o2Gu-QO0b8)
+- [How To Create REUSABLE App Components In Python (Flet Tutorial)](https://www.youtube.com/watch?v=ku_HZdgaOF8)
+- [How To Hot Reload Your Python App (Flet Tutorial)](https://www.youtube.com/watch?v=IJrvi9A0dzI)
+- [How To Use API Endpoints in Python GUI Apps - Flet Tutorial](https://www.youtube.com/watch?v=4sHrAZFY08E)
+- [Package Flet Python Apps for ALL Platforms using GitHub Actions](https://www.youtube.com/watch?v=ObO-D2TD_wo)
+- [Play & Stream Videos in Python using Flet](https://www.youtube.com/watch?v=zzqRhBzHjSQ)
+- [Python Code to Android APK with Flet | Test APK in Virtual Emulator](https://www.youtube.com/watch?v=IcT_QrLWi10)
+- [Python Code to Static Web App with Flet](https://www.youtube.com/watch?v=CLzKZlv1IAA)
+- [Python OpenAI: Generate A.I. Images Using Python + OpenAI +API + Flet](https://www.youtube.com/watch?v=W5JHJ5kNsZI)
+- [Python Tutorial: Movie App + IMDb API Requests](https://www.youtube.com/watch?v=-5xfLcVxD0o)
+- [Run & Package Flet Python apps on Google's Project IDX](https://www.youtube.com/watch?v=TiW-JTd4EP0)
+- [Set Screen Background Image and Gradient in a Flet Python App](https://www.youtube.com/watch?v=coDwUz90ohk)
+- [Simple Ecommerce App in Python - Flet Tutorial](https://www.youtube.com/watch?v=7EtUaP5W7vc)
+- [Simple Music Player in Python - Flet Tutorial](https://www.youtube.com/watch?v=hvCEF4OeWzg)
+- [Stop Shipping Ugly Python Apps: Tkinter vs Flet in 2026](https://www.youtube.com/watch?v=PDYXDZawwVk)
+- [Test Flet Python Apps on Android Mobile Emulator](https://www.youtube.com/watch?v=WSt7YvpwWME)
+
 ## Published Apps
 
 Flet apps shipped to one or more public app stores.
+
+<!-- APPS:START -->
 
 | App               | Description                                                                                                                 | Platforms     | Install                                                                                                                                                                      | Source                                          |
 |-------------------|-----------------------------------------------------------------------------------------------------------------------------|---------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|
@@ -47,6 +96,8 @@ Flet apps shipped to one or more public app stores.
 | TastyFit          | Cooking app with 3,000+ recipes, step-by-step guides, and filters by ingredient, cuisine, and occasion.                     | Android       | [Google Play](https://play.google.com/store/apps/details?id=com.tastyfit.tastyfit)                                                                                           | -                                               |
 | Text to Speech AI | Converts text into natural-sounding speech using AI, with multilingual support and audio export.                            | Android       | [Google Play](https://play.google.com/store/apps/details?id=com.mycompany.texttospeech)                                                                                      | -                                               |
 | TripCalc          | Calculates the total cost of a trip, including gas, tolls, and miles driven.                                                | Android · iOS | [Google Play](https://play.google.com/store/apps/details?id=com.BernerTech.tripcalcapp) · [App Store](https://apps.apple.com/app/tripcalc-trip-cost-calculator/id6741445615) | -                                               |
+
+<!-- APPS:END -->
 
 ## Extensions
 
@@ -165,52 +216,6 @@ Utilities and integrations that improve the Flet development workflow.
 Editor and IDE plugins for development of Flet apps.
 
 - [Flet control wrap](https://github.com/50Bytes-dev/vscode-flet-wrap) - VS Code extension for wrapping Flet controls inside other controls.
-
-## Learning Resources
-
-Articles, tutorials, and videos for learning Flet.
-
-#### Articles and Blog posts
-
-Written tutorials, guides, and deep-dives.
-
-- [A Brief Intro to FLET: Building Flutter Apps with Python](https://hackernoon.com/a-brief-intro-to-flet-building-flutter-apps-with-python)
-- [Tutorial: Build a Markdown Editor Flutter App With the Flet Python Framework](https://betterprogramming.pub/building-a-markdown-editor-previewer-with-flet-7d9b06d6dc4b)
-
-#### Videos
-
-Video tutorials and walkthroughs.
-
-- [Access any Flet's Control Parent](https://www.youtube.com/watch?v=5GtSwXP3dfY)
-- [Adding Navigation To Your Python App (Flet Tutorial)](https://www.youtube.com/watch?v=ZNuHDvt3Oxc)
-- [Building the CupertinoNavigationBar Flet Control | Flet Contribution](https://www.youtube.com/watch?v=7ncWtV-8gis)
-- [Create A Login Screen In Python With Flet (Tutorial)](https://www.youtube.com/watch?v=YWUM1Yx79mE)
-- [Create Your First Python Application With Flet (Tutorial)](https://www.youtube.com/watch?v=-mZP91Y3naY)
-- [Creating A Python App With Keyboard Shortcuts (Flet Tutorial)](https://www.youtube.com/watch?v=KFZ_fO_HCMA)
-- [Deploy Python Web Apps for FREE on Cloudflare Pages](https://www.youtube.com/watch?v=cr2bhBfgdbg)
-- [Deploy Python Web Apps for FREE on GitHub Pages using GitHub Actions](https://www.youtube.com/watch?v=qjHgRwQHD3s)
-- [Disable/Enable Browser Context Menu in a Flet Web App](https://www.youtube.com/watch?v=4NhBaxHqgWo)
-- [Display Google Admob Banner & Interstitial Ads in Flet | App Monetization](https://www.youtube.com/watch?v=CgScZlh_xRs)
-- [Display Interactive Maps in Python using Flet | Part 1](https://www.youtube.com/watch?v=opKXJROXwX8)
-- [Display Interactive Maps in Python using Flet | Part 2](https://www.youtube.com/watch?v=wUwQlrXgdcU)
-- [Flet Troubleshooting: Fix TextField Content Going Invisible When Resized](https://www.youtube.com/watch?v=esQAs998J5U)
-- [How To Build A Card Holder (Wallet) Python + Flet + Async SQLite](https://www.youtube.com/watch?v=o2wXHbPHClA)
-- [How To Create A Cool Notepad App In Python (Flet Tutorial)](https://www.youtube.com/watch?v=2o2Gu-QO0b8)
-- [How To Create REUSABLE App Components In Python (Flet Tutorial)](https://www.youtube.com/watch?v=ku_HZdgaOF8)
-- [How To Hot Reload Your Python App (Flet Tutorial)](https://www.youtube.com/watch?v=IJrvi9A0dzI)
-- [How To Use API Endpoints in Python GUI Apps - Flet Tutorial](https://www.youtube.com/watch?v=4sHrAZFY08E)
-- [Package Flet Python Apps for ALL Platforms using GitHub Actions](https://www.youtube.com/watch?v=ObO-D2TD_wo)
-- [Play & Stream Videos in Python using Flet](https://www.youtube.com/watch?v=zzqRhBzHjSQ)
-- [Python Code to Android APK with Flet | Test APK in Virtual Emulator](https://www.youtube.com/watch?v=IcT_QrLWi10)
-- [Python Code to Static Web App with Flet](https://www.youtube.com/watch?v=CLzKZlv1IAA)
-- [Python OpenAI: Generate A.I. Images Using Python + OpenAI +API + Flet](https://www.youtube.com/watch?v=W5JHJ5kNsZI)
-- [Python Tutorial: Movie App + IMDb API Requests](https://www.youtube.com/watch?v=-5xfLcVxD0o)
-- [Run & Package Flet Python apps on Google's Project IDX](https://www.youtube.com/watch?v=TiW-JTd4EP0)
-- [Set Screen Background Image and Gradient in a Flet Python App](https://www.youtube.com/watch?v=coDwUz90ohk)
-- [Simple Ecommerce App in Python - Flet Tutorial](https://www.youtube.com/watch?v=7EtUaP5W7vc)
-- [Simple Music Player in Python - Flet Tutorial](https://www.youtube.com/watch?v=hvCEF4OeWzg)
-- [Stop Shipping Ugly Python Apps: Tkinter vs Flet in 2026](https://www.youtube.com/watch?v=PDYXDZawwVk)
-- [Test Flet Python Apps on Android Mobile Emulator](https://www.youtube.com/watch?v=WSt7YvpwWME)
 
 ## Community
 
