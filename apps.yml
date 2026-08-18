@@ -28,7 +28,7 @@ apps:
     tagline: Collaborative tower-building application for desktop platforms.
     platforms: [windows, macos, linux]
     stores:
-    other: https://etz-hadaat.github.io/Co-Tower/
+      other: https://etz-hadaat.github.io/Co-Tower/
     source: https://github.com/etz-hadaat/Co-Tower
     website: https://etz-hadaat.github.io/Co-Tower/
     tags: [desktop, collaboration]
@@ -70,7 +70,7 @@ apps:
     tagline: Graph-based user interface for working with AI agents on desktop platforms.
     platforms: [windows, macos, linux]
     stores:
-    other: https://etz-hadaat.github.io/Graph-Agent-UI-v2/
+      other: https://etz-hadaat.github.io/Graph-Agent-UI-v2/
     source: https://github.com/etz-hadaat/Graph-Agent-UI-v2
     website: https://etz-hadaat.github.io/Graph-Agent-UI-v2/
     tags: [desktop, ai, agents]
