@@ -106,7 +106,7 @@ def _source_link(url: str) -> str:
 
 
 def render_table(apps: list[dict]) -> str:
-    rows = [["App", "Description", "Platforms", "Install", "Source"]]
+    rows = [["App", "Description", "Platforms", "Install", "Links"]]
     for app in sorted(apps, key=lambda a: (a.get("name") or "").casefold()):
         platforms = " · ".join(
             PLATFORMS.get(p, p) for p in (app.get("platforms") or [])
@@ -115,9 +115,19 @@ def render_table(apps: list[dict]) -> str:
         install = " · ".join(
             f"[{STORES[key]}]({stores[key]})" for key in STORES if key in stores
         )
-        source = _source_link(app["source"]) if app.get("source") else "-"
+        links = []
+        if app.get("website"):
+            links.append(f"[Website]({app['website']})")
+        if app.get("source"):
+            links.append(_source_link(app["source"]))
         rows.append(
-            [app.get("name", ""), app.get("tagline", ""), platforms, install, source]
+            [
+                app.get("name", ""),
+                app.get("tagline", ""),
+                platforms,
+                install,
+                " · ".join(links) or "-",
+            ]
         )
 
     widths = [max(len(row[c]) for row in rows) for c in range(len(rows[0]))]
