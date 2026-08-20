@@ -33,6 +33,14 @@ apps:
     website: https://etz-hadaat.github.io/Co-Tower/
     tags: [developer-tools, github-copilot, monitoring]
 
+  - name: DDGS
+    tagline: Privacy-focused metasearch app for web, image, video, news, book, and webpage content.
+    platforms: [android]
+    stores:
+      google_play: https://play.google.com/store/apps/details?id=ng.kiri.ddgs
+    source: https://github.com/Nwokike/DDGS
+    tags: [metasearch, privacy, search]
+
   - name: Flet
     tagline: Official client to preview and test Flet apps on a device.
     platforms: [android, ios]
