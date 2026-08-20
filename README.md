@@ -140,6 +140,7 @@ but they highlight the ecosystem's creativity and potential while further demons
 - [flet-gnav-bar](https://github.com/programmersd21/flet_gnav_bar) - Google Nav Bar style animated bottom navigation. Wraps [`google_nav_bar`](https://pub.dev/packages/google_nav_bar).
 - [flet-health](https://github.com/brunobrown/flet-health) - Read and write health data from Apple HealthKit and Google Health Connect. Wraps [`health`](https://pub.dev/packages/health).
 - [flet-material-symbols](https://github.com/Creeper19472/flet-material-symbols) - Google's Material Symbols icon set for Flet. Wraps [`material_symbols_icons`](https://pub.dev/packages/material_symbols_icons).
+- [flet-media-scanner](https://github.com/fazi-gondal/flet-media-scanner) - Android MediaStore integration for saving, listing, deleting, and scanning videos in the device Gallery without broad storage permissions. Wraps [`media_scanner`](https://pub.dev/packages/media_scanner).
 - [flet_math](https://github.com/Bbalduzz/flet_math) - Renders LaTeX and TeX math formulas. Wraps [`flutter_math_fork`](https://pub.dev/packages/flutter_math_fork).
 - [flet_notifications](https://github.com/Bbalduzz/flet_notifications) - Local and scheduled notifications. Wraps [`flutter_local_notifications`](https://pub.dev/packages/flutter_local_notifications).
 - [flet-onesignal](https://github.com/brunobrown/flet-onesignal) - Push notifications and in-app messaging. Wraps [`onesignal_flutter`](https://pub.dev/packages/onesignal_flutter).
