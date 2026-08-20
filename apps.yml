@@ -25,13 +25,13 @@ apps:
     tags: [commemoration, ukraine]
 
   - name: Co-Tower
-    tagline: Collaborative tower-building application for desktop platforms.
-    platforms: [windows, macos, linux]
+    tagline: Desktop companion for monitoring GitHub Copilot tasks, seat usage, and organization events.
+    platforms: [windows, linux]
     stores:
-      other: https://etz-hadaat.github.io/Co-Tower/
-    source: https://github.com/etz-hadaat/Co-Tower
+      microsoft_store: https://apps.microsoft.com/detail/9nl06gx6j83p
+      snap_store: https://snapcraft.io/co-tower
     website: https://etz-hadaat.github.io/Co-Tower/
-    tags: [desktop, collaboration]
+    tags: [developer-tools, github-copilot, monitoring]
 
   - name: Flet
     tagline: Official client to preview and test Flet apps on a device.
@@ -65,15 +65,6 @@ apps:
       app_store: https://apps.apple.com/us/app/lambs-and-tigers/id6754126430
     website: https://www.aakattutech.com/projects/lambs-and-tigers/
     tags: [game, board-game]
-
-  - name: Graph Agent UI
-    tagline: Graph-based user interface for working with AI agents on desktop platforms.
-    platforms: [windows, macos, linux]
-    stores:
-      other: https://etz-hadaat.github.io/Graph-Agent-UI-v2/
-    source: https://github.com/etz-hadaat/Graph-Agent-UI-v2
-    website: https://etz-hadaat.github.io/Graph-Agent-UI-v2/
-    tags: [desktop, ai, agents]
 
   - name: Pictograms
     tagline: Build pictogram boards to aid communication, with per-user boards of selectable images.
