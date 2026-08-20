@@ -41,6 +41,15 @@ apps:
       app_store: https://apps.apple.com/app/flet/id1624979699
     tags: [developer-tools]
 
+  - name: Graph Agent UI
+    tagline: Desktop client for connecting to, visualizing, and running LangGraph workflows.
+    platforms: [windows, linux]
+    stores:
+      microsoft_store: https://apps.microsoft.com/detail/9nj7pxq9nvn8
+      snap_store: https://snapcraft.io/graph-agent-ui
+    website: https://etz-hadaat.github.io/Graph-Agent-UI-v2/
+    tags: [developer-tools, ai, langgraph]
+
   - name: Just Reserved
     tagline: Demo reservation and booking app built with Django and Flet, showcasing the flet-django framework.
     platforms: [android]
