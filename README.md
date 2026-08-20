@@ -201,6 +201,7 @@ Community-made open-source apps and projects built with Flet — browse them to 
 - [Simple Stopwatch](https://github.com/taaaf11/Simple-Stopwatch) - A simple stopwatch.
 - [Solitaire-on-python](https://github.com/makhmud-dev/Solitaire-on-python) - Solitaire card game.
 - [TAICHI-flet](https://github.com/moshstudio/TAICHI-flet) - Windows desktop app for browsing images, music, novels, and comics.
+- [Video Downloader](https://github.com/fazi-gondal/Video-Downloader) - Cross-platform Flet desktop application for downloading, managing, and converting media with yt-dlp and FFmpeg.
 
 ## Tools
 
