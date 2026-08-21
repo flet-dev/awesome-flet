@@ -90,6 +90,14 @@ apps:
       google_play: https://play.google.com/store/apps/details?id=com.pictogram
     tags: [accessibility, communication]
 
+  - name: Sherlock
+    tagline: Searches for public social media profiles by username across 430+ networks.
+    platforms: [android]
+    stores:
+      google_play: https://play.google.com/store/apps/details?id=ng.kiri.sherlock
+    source: https://github.com/Nwokike/Sherlock
+    tags: [osint, social-media, username-search]
+
   - name: Spaninsight
     tagline: Privacy-first data intelligence — collect, analyze, and report with on-device AI.
     platforms: [android]
