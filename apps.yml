@@ -16,6 +16,22 @@
 #   tags      (optional)  Freeform labels.
 
 apps:
+  - name: Akili
+    tagline: After-school learning app with a smart tutor, quizzes, homework, and exams.
+    platforms: [android]
+    stores:
+      google_play: https://play.google.com/store/apps/details?id=ng.kiri.akili
+    source: https://github.com/Nwokike/akili-app
+    tags: [education, study, ai]
+
+  - name: Collab Shell
+    tagline: Runs cloud notebooks and interactive terminals and manages files from a mobile device.
+    platforms: [android]
+    stores:
+      google_play: https://play.google.com/store/apps/details?id=ng.kiri.collabshell
+    source: https://github.com/Nwokike/CollabShell
+    tags: [developer-tools, notebooks, terminal]
+
   - name: CodeUA
     tagline: A daily 9:00 AM minute-of-silence app to collectively commemorate those who lost their lives in the war in Ukraine.
     platforms: [android]
