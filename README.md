@@ -202,6 +202,7 @@ Community-made open-source apps and projects built with Flet — browse them to 
 - [Ki-nTree](https://github.com/sparkmicro/Ki-nTree) - Fast part creation for KiCad and InvenTree.
 - [myPeriod](https://codeberg.org/etux/myPeriod) - Menstrual cycle tracking app.
 - [Organo](https://github.com/Benitmulindwa/organo) - Generates organic structures from their IUPAC names.
+- [Passport Photo Studio](https://github.com/ProfMohsinKhan/Passport-size-photo-maker) - Local-first desktop app for preparing passport photos, replacing backgrounds, generating A4 print sheets, and exporting JPG, PNG, or PDF files.
 - [PrePaste](https://github.com/TheAnshulPrakash/PrePaste) - Clipboard privacy assistant that detects and redacts sensitive data before you paste it.
 - [PyGem](https://github.com/jorge-lgclabs/PyGem) - Adaptation of the board game Splendor.
 - [RetScape](https://codeberg.org/etux/RetScape) - Graphical NomadNet page browser.
