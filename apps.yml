@@ -143,3 +143,11 @@ apps:
       google_play: https://play.google.com/store/apps/details?id=com.BernerTech.tripcalcapp
       app_store: https://apps.apple.com/app/tripcalc-trip-cost-calculator/id6741445615
     tags: [calculator, travel]
+
+  - name: Walkertracker
+    tagline: Privacy-first walking recorder, step counter, and offline navigation assistant.
+    platforms: [android]
+    stores:
+      google_play: https://play.google.com/store/apps/details?id=org.walkertracker
+    source: https://github.com/Twilight0/org.walkertracker
+    tags: [walking, step-counter, offline-navigation]
