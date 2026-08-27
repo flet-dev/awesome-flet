@@ -103,6 +103,7 @@ Flet apps shipped to one or more public app stores.
 | Text to Speech AI | Converts text into natural-sounding speech using AI, with multilingual support and audio export.                            | Android         | [Google Play](https://play.google.com/store/apps/details?id=com.mycompany.texttospeech)                                                                                      | -                                                                 |
 | TripCalc          | Calculates the total cost of a trip, including gas, tolls, and miles driven.                                                | Android · iOS   | [Google Play](https://play.google.com/store/apps/details?id=com.BernerTech.tripcalcapp) · [App Store](https://apps.apple.com/app/tripcalc-trip-cost-calculator/id6741445615) | -                                                                 |
 | Walkertracker     | Privacy-first walking recorder, step counter, and offline navigation assistant.                                             | Android         | [Google Play](https://play.google.com/store/apps/details?id=org.walkertracker)                                                                                               | [GitHub](https://github.com/Twilight0/org.walkertracker)          |
+| Weeknum           | Displays ISO week numbers and date ranges, with date navigation, historical events, and an Android home-screen widget.      | Android         | [Google Play](https://play.google.com/store/apps/details?id=org.weeknum)                                                                                                     | [GitHub](https://github.com/Twilight0/org.weeknum)                |
 
 <!-- APPS:END -->
 
@@ -199,6 +200,7 @@ Community-made open-source apps and projects built with Flet — browse them to 
 - [Flet Base](https://github.com/TonyXdZ/flet-base) - Starter app with multiple pages and basic auth to jump-start a project.
 - [flet_projects](https://github.com/LineIndent/flet_projects) - Collection of applications built with Flet.
 - [flet-timer](https://github.com/omamkaz/flet-timer) - Example countdown timer using threads for real-time updates.
+- [Flet TTS Demo](https://github.com/Twilight0/org.flettts.demo) - Pure-Python text-to-speech demo using Microsoft Edge neural voices, with streaming playback, voice controls, and MP3 export.
 - [iBackep](https://github.com/redromnon/iBackep) - Lightweight GUI backup manager for iPhone and iPad on Linux.
 - [Ki-nTree](https://github.com/sparkmicro/Ki-nTree) - Fast part creation for KiCad and InvenTree.
 - [myPeriod](https://codeberg.org/etux/myPeriod) - Menstrual cycle tracking app.
