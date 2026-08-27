@@ -151,3 +151,11 @@ apps:
       google_play: https://play.google.com/store/apps/details?id=org.walkertracker
     source: https://github.com/Twilight0/org.walkertracker
     tags: [walking, step-counter, offline-navigation]
+
+  - name: Weeknum
+    tagline: Displays ISO week numbers and date ranges, with date navigation, historical events, and an Android home-screen widget.
+    platforms: [android]
+    stores:
+      google_play: https://play.google.com/store/apps/details?id=org.weeknum
+    source: https://github.com/Twilight0/org.weeknum
+    tags: [calendar, productivity, widget]
