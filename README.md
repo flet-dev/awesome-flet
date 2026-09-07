@@ -152,6 +152,7 @@ but they highlight the ecosystem's creativity and potential while further demons
 - [flet-open-file](https://github.com/creeper19472/flet-open-file) - Open files with the device's native handler app. Wraps [`open_file`](https://pub.dev/packages/open_file).
 - [flet-sherpa-onnx](https://github.com/SamYuan1990/flet_sherpa_onnx) - On-device speech-to-text. Wraps [`sherpa_onnx`](https://pub.dev/packages/sherpa_onnx).
 - [sparkle_auto_updater](https://github.com/ap4499/sparkle_auto_updater) - Push automatic desktop-app updates. Wraps [`auto_updater`](https://pub.dev/packages/auto_updater).
+- [flet-webview-all](https://github.com/zaim-tech/flet-webview-all) - Cross-platform WebView extension for Flet. Wraps [`webview_all`](https://pub.dev/packages/webview_all).
 
 ## Libraries
 
