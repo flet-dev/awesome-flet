@@ -106,6 +106,14 @@ apps:
       google_play: https://play.google.com/store/apps/details?id=com.pictogram
     tags: [accessibility, communication]
 
+  - name: Restaubee
+    tagline: Restaurant point-of-sale and management app for billing, inventory, analytics, local-network sync, and offline operation.
+    platforms: [windows]
+    stores:
+      microsoft_store: https://apps.microsoft.com/detail/9p9w500l6kwg
+    website: https://www.restaubee.com
+    tags: [point-of-sale, restaurant, inventory]
+
   - name: Sherlock
     tagline: Searches for public social media profiles by username across 430+ networks.
     platforms: [android]
