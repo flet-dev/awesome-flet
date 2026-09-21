@@ -147,6 +147,7 @@ but they highlight the ecosystem's creativity and potential while further demons
 - [flet-health](https://github.com/brunobrown/flet-health) - Read and write health data from Apple HealthKit and Google Health Connect. Wraps [`health`](https://pub.dev/packages/health).
 - [flet-image-viewer](https://github.com/zaim-tech/flet-image-viewer) - A zoomable image viewer and swipeable gallery control for Flet. Wraps [`photo_viewer`](https://pub.dev/packages/photo_viewer).
 - [flet-material-symbols](https://github.com/Creeper19472/flet-material-symbols) - Google's Material Symbols icon set for Flet. Wraps [`material_symbols_icons`](https://pub.dev/packages/material_symbols_icons).
+- [flet-media-library](https://github.com/fazi-gondal/Flet-media-library) - Access device gallery, browse albums, fetch assets and thumbnails, and manage photos, videos, and audio. Wraps [`photo_manager`](https://pub.dev/packages/photo_manager).
 - [flet-media-scanner](https://github.com/fazi-gondal/flet-media-scanner) - Android MediaStore integration for saving, listing, deleting, and scanning videos in the device Gallery without broad storage permissions. Wraps [`media_scanner`](https://pub.dev/packages/media_scanner).
 - [flet_math](https://github.com/Bbalduzz/flet_math) - Renders LaTeX and TeX math formulas. Wraps [`flutter_math_fork`](https://pub.dev/packages/flutter_math_fork).
 - [flet_notifications](https://github.com/Bbalduzz/flet_notifications) - Local and scheduled notifications. Wraps [`flutter_local_notifications`](https://pub.dev/packages/flutter_local_notifications).
