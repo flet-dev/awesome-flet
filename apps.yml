@@ -115,7 +115,7 @@ apps:
     tags: [point-of-sale, restaurant, inventory]
 
   - name: Sherlock
-    tagline: Searches for public social media profiles by username across 430+ networks.
+    tagline: Searches for public social media profiles by username across 5,200+ social networks.
     platforms: [android]
     stores:
       google_play: https://play.google.com/store/apps/details?id=ng.kiri.sherlock
