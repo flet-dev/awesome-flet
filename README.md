@@ -203,6 +203,7 @@ Community-made open-source apps and projects built with Flet — browse them to 
 - [Calculator](https://github.com/taaaf11/Calculator) - Minimal calculator app.
 - [flet-alchemy](https://github.com/nbilbo/flet-alchemy) - Example integrating Flet with SQLAlchemy.
 - [Flet Base](https://github.com/TonyXdZ/flet-base) - Starter app with multiple pages and basic auth to jump-start a project.
+- [Flet Media Library App](https://github.com/fazi-gondal/Flet-media-library/tree/main/examples/media_library_demo) - Full-featured production Flet application showcasing device media browsing, thumbnails, playback, camera and audio capture, permissions, media mutations, live updates, and automated testing with `flet-media-library`.
 - [flet_projects](https://github.com/LineIndent/flet_projects) - Collection of applications built with Flet.
 - [flet-timer](https://github.com/omamkaz/flet-timer) - Example countdown timer using threads for real-time updates.
 - [Flet TTS Demo](https://github.com/Twilight0/org.flettts.demo) - Pure-Python text-to-speech demo using Microsoft Edge neural voices, with streaming playback, voice controls, and MP3 export.
