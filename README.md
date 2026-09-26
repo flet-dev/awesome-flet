@@ -128,6 +128,7 @@ Built and actively maintained by the Flet team.
 - [flet-flashlight](https://github.com/flet-dev/flet/tree/main/sdk/python/packages/flet-flashlight) - Device torch control. Wraps [`flashlight`](https://pub.dev/packages/flashlight).
 - [flet-geolocator](https://github.com/flet-dev/flet/tree/main/sdk/python/packages/flet-geolocator) - GPS position and position streams. Wraps [`geolocator`](https://pub.dev/packages/geolocator).
 - [flet-lottie](https://github.com/flet-dev/flet/tree/main/sdk/python/packages/flet-lottie) - Lottie animations. Wraps [`lottie`](https://pub.dev/packages/lottie).
+- [flet-local-auth](https://github.com/flet-dev/flet/tree/main/sdk/python/packages/flet-local-auth) - Authenticate users with biometrics, PIN, passcode, or pattern. Wraps [`local_auth`](https://pub.dev/packages/local_auth).
 - [flet-map](https://github.com/flet-dev/flet/tree/main/sdk/python/packages/flet-map) - Interactive tile-based maps. Wraps [`flutter_map`](https://pub.dev/packages/flutter_map).
 - [flet-permission-handler](https://github.com/flet-dev/flet/tree/main/sdk/python/packages/flet-permission-handler) - Request and check device permissions. Wraps [`permission_handler`](https://pub.dev/packages/permission_handler).
 - [flet-rive](https://github.com/flet-dev/flet/tree/main/sdk/python/packages/flet-rive) - Rive animations. Wraps [`rive`](https://pub.dev/packages/rive).
