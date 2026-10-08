@@ -41,7 +41,7 @@ STORES = {
     "app_store": "App Store",
     "microsoft_store": "Microsoft Store",
     "snap_store": "Snap Store",
-    "other": "Store",
+    "other": "Open app",
 }
 
 
