@@ -27,7 +27,7 @@ Most sections (Libraries, Apps and Projects, Tools, Learning Resources, Communit
 
 ## Published apps
 
-Apps shipped to a public app store live in [`apps.yml`](apps.yml) — the single source of truth that also powers the "Made with Flet" showcase on [flet.dev](https://flet.dev). **Add your entry there**, not directly to the README table.
+End-user apps available from a public app store or as a hosted web app live in [`apps.yml`](apps.yml) — the single source of truth that also powers the "Made with Flet" showcase on [flet.dev](https://flet.dev). **Add your entry there**, not directly to the README table. Repository-only apps that users must clone and set up belong under **Apps and Projects** instead.
 
 ```yaml
   - name: My App
@@ -36,6 +36,7 @@ Apps shipped to a public app store live in [`apps.yml`](apps.yml) — the single
     stores:
       google_play: https://play.google.com/store/apps/details?id=...
       app_store: https://apps.apple.com/app/...
+      other: https://example.com/app      # hosted web app or other public distribution
     source: https://github.com/owner/repo   # optional — only if the app itself is open source
     website: https://example.com            # optional
     tags: [example, tag]                     # optional
@@ -50,7 +51,7 @@ uv run scripts/apps.py sync   # validates apps.yml and rewrites the README table
 
 Can't run it? No problem — a reviewer will run it on your PR before merging.
 
-Include a **working store link**. Add `source` only if the **app's own code** is public (not just the framework it uses).
+Include a working store, distribution, or hosted-app link that lets people install or use the app without setting up its source code. Add `source` only if the **app's own code** is public (not just the framework it uses).
 
 ## Review
 

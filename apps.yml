@@ -1,4 +1,5 @@
-# Published Flet apps — apps shipped to a public app store.
+# Published Flet apps — end-user products available from a public app store
+# or as a hosted web app.
 #
 # Single source of truth for the README "Published Apps" table and the
 # "Made with Flet" showcase on flet.dev. Add an app via pull request; the
@@ -65,6 +66,14 @@ apps:
       app_store: https://apps.apple.com/app/flet/id1624979699
     tags: [developer-tools]
 
+  - name: Flet TTS Demo
+    tagline: Converts text to speech with Microsoft Edge neural voices, streaming playback, voice controls, and MP3 export.
+    platforms: [web]
+    stores:
+      other: https://twilight0.github.io/org.flettts.demo/
+    source: https://github.com/Twilight0/org.flettts.demo
+    tags: [text-to-speech, accessibility, demo]
+
   - name: Graph Agent UI
     tagline: Desktop client for connecting to, visualizing, and running LangGraph workflows.
     platforms: [windows, linux]
@@ -73,6 +82,14 @@ apps:
       snap_store: https://snapcraft.io/graph-agent-ui
     website: https://etz-hadaat.github.io/Graph-Agent-UI-v2/
     tags: [developer-tools, ai, langgraph]
+
+  - name: Helpful Sudoku
+    tagline: Browser-based Classic and X Sudoku game with adjustable assistance, explanatory hints, puzzle import, and multiple difficulty levels.
+    platforms: [web]
+    stores:
+      other: https://helpful-sudoku.com/play
+    website: https://helpful-sudoku.com
+    tags: [game, sudoku, puzzle]
 
   - name: Just Reserved
     tagline: Demo reservation and booking app built with Django and Flet, showcasing the flet-django framework.
@@ -99,12 +116,28 @@ apps:
     website: https://www.aakattutech.com/projects/lambs-and-tigers/
     tags: [game, board-game]
 
+  - name: Organo
+    tagline: Generates chemical compound structures from their IUPAC names.
+    platforms: [web]
+    stores:
+      other: https://organo-ep4m.onrender.com
+    source: https://github.com/Benitmulindwa/organo
+    tags: [chemistry, molecular-structure]
+
   - name: Pictograms
     tagline: Build pictogram boards to aid communication, with per-user boards of selectable images.
     platforms: [android]
     stores:
       google_play: https://play.google.com/store/apps/details?id=com.pictogram
     tags: [accessibility, communication]
+
+  - name: PyGem
+    tagline: Pass-and-play strategy game for two to four players, based on the board game Splendor.
+    platforms: [web]
+    stores:
+      other: https://jorge-lgclabs.github.io/PyGem/
+    source: https://github.com/jorge-lgclabs/PyGem
+    tags: [game, board-game, pass-and-play]
 
   - name: Restaubee
     tagline: Restaurant point-of-sale and management app for billing, inventory, analytics, local-network sync, and offline operation.
@@ -151,6 +184,14 @@ apps:
       google_play: https://play.google.com/store/apps/details?id=com.BernerTech.tripcalcapp
       app_store: https://apps.apple.com/app/tripcalc-trip-cost-calculator/id6741445615
     tags: [calculator, travel]
+
+  - name: Vidsaver
+    tagline: Downloads and manages videos from supported platforms on mobile, desktop, and the web.
+    platforms: [web]
+    stores:
+      other: https://fazi-gondal.github.io/Vidsaver/
+    source: https://github.com/fazi-gondal/Vidsaver
+    tags: [video, downloader, media]
 
   - name: Walkertracker
     tagline: Privacy-first walking recorder, step counter, and offline navigation assistant.
