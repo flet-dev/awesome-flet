@@ -216,3 +216,12 @@ apps:
       google_play: https://play.google.com/store/apps/details?id=org.weeknum
     source: https://github.com/Twilight0/org.weeknum
     tags: [calendar, productivity, widget]
+
+  - name: GTrans
+    tagline: Desktop translation companion for Google Translate, without the browser history clutter.
+    platforms: [windows, macos, linux]
+    stores:
+      other: https://github.com/osamalzabidi/gtrans/releases
+    source: https://github.com/osamalzabidi/gtrans
+    website: https://github.com/osamalzabidi/gtrans#readme
+    tags: [translation, productivity, privacy]
