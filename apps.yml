@@ -74,6 +74,14 @@ apps:
     source: https://github.com/Twilight0/org.flettts.demo
     tags: [text-to-speech, accessibility, demo]
 
+  - name: Fletube
+    tagline: Downloads video or audio from links and playlists, with selectable formats and quality.
+    platforms: [android]
+    stores:
+      other: https://fletube.alisondev.com.br/baixar
+    website: https://fletube.alisondev.com.br/
+    tags: [video, audio, downloader]
+
   - name: Graph Agent UI
     tagline: Desktop client for connecting to, visualizing, and running LangGraph workflows.
     platforms: [windows, linux]
