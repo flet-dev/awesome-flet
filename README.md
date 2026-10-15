@@ -158,6 +158,7 @@ but they highlight the ecosystem's creativity and potential while further demons
 - [flet-media-scanner](https://github.com/fazi-gondal/flet-media-scanner) - Android MediaStore integration for saving, listing, deleting, and scanning videos in the device Gallery without broad storage permissions. Wraps [`media_scanner`](https://pub.dev/packages/media_scanner).
 - [flet_math](https://github.com/Bbalduzz/flet_math) - Renders LaTeX and TeX math formulas. Wraps [`flutter_math_fork`](https://pub.dev/packages/flutter_math_fork).
 - [flet_notifications](https://github.com/Bbalduzz/flet_notifications) - Local and scheduled notifications. Wraps [`flutter_local_notifications`](https://pub.dev/packages/flutter_local_notifications).
+- [flet-notifications](https://github.com/Nwokike/flet-notifications) - Local notifications with scheduling, channels and action callbacks across six platforms. Wraps [`flutter_local_notifications`](https://pub.dev/packages/flutter_local_notifications).
 - [flet-onesignal](https://github.com/brunobrown/flet-onesignal) - Push notifications and in-app messaging. Wraps [`onesignal_flutter`](https://pub.dev/packages/onesignal_flutter).
 - [flet-open-file](https://github.com/creeper19472/flet-open-file) - Open files with the device's native handler app. Wraps [`open_file`](https://pub.dev/packages/open_file).
 - [flet-sherpa-onnx](https://github.com/SamYuan1990/flet_sherpa_onnx) - On-device speech-to-text. Wraps [`sherpa_onnx`](https://pub.dev/packages/sherpa_onnx).
