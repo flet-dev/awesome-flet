@@ -220,6 +220,7 @@ Community-made open-source apps and projects built with Flet — browse them to 
 - [myPeriod](https://codeberg.org/etux/myPeriod) - Menstrual cycle tracking app.
 - [Passport Photo Studio](https://github.com/ProfMohsinKhan/Passport-size-photo-maker) - Local-first desktop app for preparing passport photos, replacing backgrounds, generating A4 print sheets, and exporting JPG, PNG, or PDF files.
 - [PrePaste](https://github.com/TheAnshulPrakash/PrePaste) - Clipboard privacy assistant that detects and redacts sensitive data before you paste it.
+- [RelayDeck](https://github.com/Hybridhash/relaydeck) - Private remote interface for monitoring and controlling Herdr coding-agent terminal sessions from phones, tablets, and browsers.
 - [RetScape](https://codeberg.org/etux/RetScape) - Graphical NomadNet page browser.
 - [Simple Stopwatch](https://github.com/taaaf11/Simple-Stopwatch) - A simple stopwatch.
 - [Solitaire-on-python](https://github.com/makhmud-dev/Solitaire-on-python) - Solitaire card game.
