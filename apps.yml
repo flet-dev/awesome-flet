@@ -53,7 +53,7 @@ apps:
   - name: Damning Details
     tagline: A murder-mystery game where you question suspects, search for evidence and prove who did it.
     platforms: [web, windows, macos, linux, android]
-
+    stores:
       other: https://damningdetails.com/
     website: https://damningdetails.com/
     tags: [game, mystery, detective]
