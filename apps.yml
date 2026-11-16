@@ -50,6 +50,14 @@ apps:
     website: https://etz-hadaat.github.io/Co-Tower/
     tags: [developer-tools, github-copilot, monitoring]
 
+  - name: Damning Details
+    tagline: A murder-mystery game where you question suspects, search for evidence and prove who did it.
+    platforms: [web, windows, macos, linux, android]
+
+      other: https://damningdetails.com/
+    website: https://damningdetails.com/
+    tags: [game, mystery, detective]
+
   - name: DDGS
     tagline: Privacy-focused metasearch app for web, image, video, news, book, and webpage content.
     platforms: [android]
